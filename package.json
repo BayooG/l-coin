@@ -1,0 +1,28 @@
+{
+  "name": "l-coin",
+  "version": "1.0.0",
+  "description": "cryptocurrency implementation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayooG/l-coin.git"
+  },
+  "keywords": [
+    "blockchain",
+    "crypto",
+    "cryptocurrency"
+  ],
+  "author": "Obay Daba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayooG/l-coin/issues"
+  },
+  "homepage": "https://github.com/BayooG/l-coin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.5.1"
+  }
+}
